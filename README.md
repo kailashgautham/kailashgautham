@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kailashgautham
-- 👀 I’m interested in machine learning and AI, and backend development.
-- 🌱 I’m currently learning Go.
-- 💞️ I’m looking to collaborate on any projects, either app development or machine learning.
+- 👀 I’m interested in low-latency and high performance programming.
+- 🌱 I’m currently focused on improving my C++ knowledge.
+- 💞️ I’m looking to collaborate on any C++ projects.
 - 📫 How to reach me!
 - 
          message me on LinkedIn: https://linkedin.com/in/kailashgautham
