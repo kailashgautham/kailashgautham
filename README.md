@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kailashgautham
-- 👀 I’m interested in low-latency and high performance programming.
+- 👀 I’m interested in low-latency programming and parallel computing.
 - 🌱 I’m currently focused on improving my C++ knowledge.
 - 💞️ I’m looking to collaborate on any C++ projects.
 - 📫 How to reach me!
